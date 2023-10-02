@@ -1,13 +1,14 @@
 [
   {
     "id": 1,
-    "prenom": "La fin du monde ?",
-    "avatar": "/img/vladimir.jpg"
+    "titre": "La fin du monde ?",
+    "image": "/img/vladimir.jpg",
+    "contenu": "<p>Est-ce la fin du monde ? C'est une question qui préoccupe de nombreuses personnes. Certains disent que nous sommes confrontés à des défis existentiels majeurs, tandis que d'autres restent optimistes quant à notre avenir.</p>"
   },
-
   {
     "id": 2,
-    "prenom": "Une autre planète ?",
-    "avatar": "/img/elon musk lifting a rock off twitter logo.jpg"
+    "titre": "Une autre planète ?",
+    "image": "/img/elon musk lifting a rock off twitter logo.jpg",
+    "contenu": "<p>Une autre planète est-elle notre salut ? Elon Musk et d'autres visionnaires travaillent dur pour explorer les possibilités de coloniser Mars et assurer la survie de l'humanité en dehors de la Terre.</p>"
   }
 ]

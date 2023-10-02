@@ -15,7 +15,7 @@ export default defineEventHandler(async (event) => {
 
   const options = {
     includeScore: true,
-    keys: ['prenom', 'nom', 'description'],
+    keys: ['titre', 'contenu'],
   };
 
   const fuse = new Fuse(articles, options);
